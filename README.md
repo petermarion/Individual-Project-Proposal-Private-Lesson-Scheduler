@@ -4,7 +4,7 @@
 _This proposed project is a standalone project aiming to improve my own experience at my part time job as a karate instructor. Many instructors at different schools, myself included, offer private training to students as a way to improve a student's skills and make money on the side. Organizing these private lessons can be tedious and disorganized, especially when you grow upwards of 10 students, all with different schedules, that you need to fit in on one or a few days._
 _My proposal is a phone app which would solve every organizational issue that pertains to scheduling and maintaining private lessons._
 
-ADD UML DIAGRAM
+![Private Lesson Scheduler Diagram](https://user-images.githubusercontent.com/59925687/108251858-f3074280-7125-11eb-880f-52b34c0b6793.jpg)
 
 
 ## Project Relevance
@@ -13,7 +13,6 @@ The design will likely undergo many changes, as I have a lot of pain points when
 I hope to learn a lot about the standard progression of building an application, apply version control concepts, and create a usable and functional application. I also hope to apply concepts I am currently learning in User Experience Design class to interview potential users and discover the most important features for them. 
 
 ## Conceptual Design
-_A one-paragraph description of your proposed contribution._
 _This app will be designed to bring together all aspects of private training into an organized and easy to use scheduler._ 
 
 Ideal Proposed Features, likely not everything will be implemented: 
@@ -37,13 +36,14 @@ Ideal Proposed Features, likely not everything will be implemented:
   - Provide graphs to track earnings over time, will help for tax purposes
 
 ## Background
-_A URL reference to the project. Add text on how to build and run succesfully._ 
 
-<https://github.com/temple-cis3296/MainPaystationLab>
+https://github.com/petermarion/Private-Lesson-Scheduler
 
 ## Required Resources
 - _NEED an Apple computer to run XCode_
 - _Preferably some experience with XCode_
 - _Preferably some experience making iPhone apps_
 - _Preferably have an iPhone to test the software yourself_
+
+
 Note: I do not personally have much experience with iPhone app development, this will be a learning process for everyone involved.
